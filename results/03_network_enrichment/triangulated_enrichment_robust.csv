@@ -1,0 +1,217 @@
+pathway,n_platforms,platforms,robust_ge2
+Activation of Matrix Metalloproteinases,3,DAVID;Reactome;ClueGO,True
+Assembly of collagen fibrils and other multimeric structures,3,DAVID;Reactome;ClueGO,True
+Bile secretion,3,DAVID;KEGG;ClueGO,True
+Biological oxidations,3,DAVID;Reactome;ClueGO,True
+Calcium signaling pathway,3,DAVID;KEGG;ClueGO,True
+Cardiac conduction,3,DAVID;Reactome;ClueGO,True
+Chemokine receptors bind chemokines,3,DAVID;Reactome;ClueGO,True
+Chemokine signaling pathway,3,DAVID;KEGG;ClueGO,True
+Cholinergic synapse,3,DAVID;KEGG;ClueGO,True
+Circadian entrainment,3,DAVID;KEGG;ClueGO,True
+Class A/1 (Rhodopsin-like receptors),3,DAVID;Reactome;ClueGO,True
+Collagen biosynthesis and modifying enzymes,3,DAVID;Reactome;ClueGO,True
+Collagen chain trimerization,3,DAVID;Reactome;ClueGO,True
+Collagen degradation,3,DAVID;Reactome;ClueGO,True
+Collagen formation,3,DAVID;Reactome;ClueGO,True
+Complement and coagulation cascades,3,DAVID;KEGG;ClueGO,True
+Cytokine-cytokine receptor interaction,3,DAVID;KEGG;ClueGO,True
+Degradation of the extracellular matrix,3,DAVID;Reactome;ClueGO,True
+Drug ADME,3,DAVID;Reactome;ClueGO,True
+G alpha (i) signalling events,3,DAVID;Reactome;ClueGO,True
+G alpha (q) signalling events,3,DAVID;Reactome;ClueGO,True
+GPCR downstream signalling,3,DAVID;Reactome;ClueGO,True
+GPCR ligand binding,3,DAVID;Reactome;ClueGO,True
+Hematopoietic cell lineage,3,DAVID;KEGG;ClueGO,True
+Hemostasis,3,DAVID;Reactome;ClueGO,True
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,3,DAVID;Reactome;ClueGO,True
+Ion channel transport,3,DAVID;Reactome;ClueGO,True
+Ion homeostasis,3,DAVID;Reactome;ClueGO,True
+Mineral absorption,3,DAVID;KEGG;ClueGO,True
+Neuroactive ligand-receptor interaction,3,DAVID;KEGG;ClueGO,True
+Neuronal System,3,DAVID;Reactome;ClueGO,True
+Nicotine addiction,3,DAVID;KEGG;ClueGO,True
+Pathways in cancer,3,DAVID;KEGG;ClueGO,True
+Peptide ligand-binding receptors,3,DAVID;Reactome;ClueGO,True
+Phase I - Functionalization of compounds,3,DAVID;Reactome;ClueGO,True
+Phase II - Conjugation of compounds,3,DAVID;Reactome;ClueGO,True
+Platelet homeostasis,3,DAVID;Reactome;ClueGO,True
+Potassium Channels,3,DAVID;Reactome;ClueGO,True
+Protein digestion and absorption,3,DAVID;KEGG;ClueGO,True
+Response to metal ions,3,DAVID;Reactome;ClueGO,True
+Retinol metabolism,3,DAVID;KEGG;ClueGO,True
+Rheumatoid arthritis,3,DAVID;KEGG;ClueGO,True
+SLC-mediated transmembrane transport,3,DAVID;Reactome;ClueGO,True
+Salivary secretion,3,DAVID;KEGG;ClueGO,True
+Signaling by GPCR,3,DAVID;Reactome;ClueGO,True
+Stimuli-sensing channels,3,DAVID;Reactome;ClueGO,True
+Transmission across Chemical Synapses,3,DAVID;Reactome;ClueGO,True
+Transport of small molecules,3,DAVID;Reactome;ClueGO,True
+Viral protein interaction with cytokine and cytokine receptor,3,DAVID;KEGG;ClueGO,True
+Wnt signaling pathway,3,DAVID;KEGG;ClueGO,True
+cAMP signaling pathway,3,DAVID;KEGG;ClueGO,True
+cGMP effects,3,DAVID;Reactome;ClueGO,True
+extracellular matrix organization,3,DAVID;Reactome;ClueGO,True
+muscle contraction,3,DAVID;Reactome;ClueGO,True
+signal transduction,3,DAVID;Reactome;ClueGO,True
+ABC transporters,2,DAVID;KEGG,True
+Adrenergic signaling in cardiomyocytes,2,DAVID;KEGG,True
+Aldosterone synthesis and secretion,2,DAVID;KEGG,True
+Allograft rejection,2,DAVID;KEGG,True
+Amino acid transport across the plasma membrane,2,DAVID;Reactome,True
+Arrhythmogenic right ventricular cardiomyopathy,2,DAVID;KEGG,True
+Ascorbate and aldarate metabolism,2,DAVID;KEGG,True
+Aspirin ADME,2,DAVID;Reactome,True
+Asthma,2,DAVID;KEGG,True
+Axon guidance,2,DAVID;ClueGO,True
+Basal cell carcinoma,2,DAVID;KEGG,True
+Cell adhesion molecule (CAM) interaction,2,DAVID;KEGG,True
+Chemical carcinogenesis - DNA adducts,2,DAVID;KEGG,True
+Chemical carcinogenesis - receptor activation,2,DAVID;KEGG,True
+Class B/2 (Secretin family receptors),2,DAVID;Reactome,True
+Constitutive Signaling by Aberrant PI3K in Cancer,2,DAVID;Reactome,True
+Cushing syndrome,2,DAVID;KEGG,True
+Cytoskeleton in muscle cells,2,DAVID;KEGG,True
+Defective B3GALTL causes PpS,2,DAVID;Reactome,True
+Developmental Cell Lineages,2,DAVID;Reactome,True
+Developmental Cell Lineages of the Exocrine Pancreas,2,DAVID;Reactome,True
+Dilated cardiomyopathy,2,DAVID;KEGG,True
+Dopaminergic synapse,2,DAVID;KEGG,True
+Drug metabolism - cytochrome P450,2,DAVID;KEGG,True
+ECM proteoglycans,2,DAVID;Reactome,True
+ECM-receptor interaction,2,DAVID;KEGG,True
+Erythrocytes take up oxygen and release carbon dioxide,2,DAVID;Reactome,True
+Fibronectin matrix formation,2,DAVID;Reactome,True
+G alpha (s) signalling events,2,DAVID;Reactome,True
+GABAergic synapse,2,DAVID;KEGG,True
+Glucagon-type ligand receptors,2,DAVID;Reactome,True
+Glucuronidation,2,DAVID;Reactome,True
+Glutamatergic synapse,2,DAVID;KEGG,True
+Graft-versus-host disease,2,DAVID;KEGG,True
+Hormone signaling,2,DAVID;KEGG,True
+Hypertrophic cardiomyopathy,2,DAVID;KEGG,True
+IgSF CAM signaling,2,DAVID;KEGG,True
+Inflammatory bowel disease,2,DAVID;KEGG,True
+Insulin secretion,2,DAVID;KEGG,True
+Integration of energy metabolism,2,DAVID;Reactome,True
+Integrin cell surface interactions,2,DAVID;Reactome,True
+Integrin signaling,2,DAVID;KEGG,True
+Interaction between L1 and Ankyrins,2,DAVID;Reactome,True
+Interleukin-10 signaling,2,DAVID;Reactome,True
+Interleukin-4 and Interleukin-13 signaling,2,DAVID;Reactome,True
+Intestinal immune network for IgA production,2,DAVID;KEGG,True
+Kinesins,2,DAVID;Reactome,True
+Melanogenesis,2,DAVID;KEGG,True
+Metabolism of xenobiotics by cytochrome P450,2,DAVID;KEGG,True
+Metallothioneins bind metals,2,DAVID;Reactome,True
+Morphine addiction,2,DAVID;KEGG,True
+NCAM1 interactions,2,DAVID;Reactome,True
+Negative regulation of the PI3K/AKT network,2,DAVID;Reactome,True
+Neurexins and neuroligins,2,DAVID;Reactome,True
+Neuroactive ligand signaling,2,DAVID;KEGG,True
+Neurotransmitter receptors and postsynaptic signal transmission,2,DAVID;Reactome,True
+Non-integrin membrane-ECM interactions,2,DAVID;Reactome,True
+O-glycosylation of TSR domain-containing proteins,2,DAVID;Reactome,True
+PI3K-Akt signaling pathway,2,DAVID;KEGG,True
+"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",2,DAVID;Reactome,True
+PPAR signaling pathway,2,DAVID;KEGG,True
+Pancreatic secretion,2,DAVID;KEGG,True
+Pentose and glucuronate interconversions,2,DAVID;KEGG,True
+Phase 0 - rapid depolarisation,2,DAVID;Reactome,True
+Platelet calcium homeostasis,2,DAVID;Reactome,True
+Protein-protein interactions at synapses,2,DAVID;Reactome,True
+Proteoglycans in cancer,2,DAVID;KEGG,True
+Regulation of MITF-M-dependent genes involved in cell cycle and proliferation,2,DAVID;Reactome,True
+Regulation of insulin secretion,2,DAVID;Reactome,True
+Regulation of lipolysis in adipocytes,2,DAVID;KEGG,True
+Renin secretion,2,DAVID;KEGG,True
+SLC-mediated transport of amino acids,2,DAVID;Reactome,True
+Serotonergic synapse,2,DAVID;KEGG,True
+Staphylococcus aureus infection,2,DAVID;KEGG,True
+Steroid hormone biosynthesis,2,DAVID;KEGG,True
+T cell activation,2,DAVID;ClueGO,True
+Type I diabetes mellitus,2,DAVID;KEGG,True
+Tyrosine metabolism,2,DAVID;KEGG,True
+Unwinding of DNA,2,DAVID;Reactome,True
+Viral myocarditis,2,DAVID;KEGG,True
+"Virion - Ebolavirus, Lyssavirus and Morbillivirus",2,DAVID;KEGG,True
+Voltage gated Potassium channels,2,DAVID;Reactome,True
+action potential,2,DAVID;ClueGO,True
+adenylate cyclase-activating G protein-coupled receptor signaling pathway,2,DAVID;ClueGO,True
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway,2,DAVID;ClueGO,True
+angiogenesis,2,DAVID;ClueGO,True
+bile acid and bile salt transport,2,DAVID;ClueGO,True
+blood circulation,2,DAVID;ClueGO,True
+cGMP-PKG signaling pathway,2,DAVID;KEGG,True
+calcium ion transmembrane transport,2,DAVID;ClueGO,True
+calcium ion transport,2,DAVID;ClueGO,True
+calcium-mediated signaling,2,DAVID;ClueGO,True
+cell chemotaxis,2,DAVID;ClueGO,True
+cell fate commitment,2,DAVID;ClueGO,True
+cell surface receptor signaling pathway,2,DAVID;ClueGO,True
+cellular response to calcium ion,2,DAVID;ClueGO,True
+central nervous system development,2,DAVID;ClueGO,True
+chemical synaptic transmission,2,DAVID;ClueGO,True
+chemokine-mediated signaling pathway,2,DAVID;ClueGO,True
+chemotaxis,2,DAVID;ClueGO,True
+chloride transmembrane transport,2,DAVID;ClueGO,True
+chloride transport,2,DAVID;ClueGO,True
+epithelial cell differentiation,2,DAVID;ClueGO,True
+excitatory postsynaptic potential,2,DAVID;ClueGO,True
+inflammatory response,2,DAVID;ClueGO,True
+inner ear morphogenesis,2,DAVID;ClueGO,True
+membrane depolarization,2,DAVID;ClueGO,True
+membrane depolarization during cardiac muscle cell action potential,2,DAVID;ClueGO,True
+memory,2,DAVID;ClueGO,True
+modulation of chemical synaptic transmission,2,DAVID;ClueGO,True
+monocarboxylic acid metabolic process,2,DAVID;ClueGO,True
+negative regulation of cell population proliferation,2,DAVID;ClueGO,True
+nervous system development,2,DAVID;ClueGO,True
+neural crest cell migration,2,DAVID;ClueGO,True
+neurogenesis,2,DAVID;ClueGO,True
+neuron differentiation,2,DAVID;ClueGO,True
+neuropeptide signaling pathway,2,DAVID;ClueGO,True
+neurotransmitter transport,2,DAVID;ClueGO,True
+odontogenesis of dentin-containing tooth,2,DAVID;ClueGO,True
+osteoblast differentiation,2,DAVID;ClueGO,True
+phospholipase C-activating G protein-coupled receptor signaling pathway,2,DAVID;ClueGO,True
+positive regulation of ERK1 and ERK2 cascade,2,DAVID;ClueGO,True
+positive regulation of MAPK cascade,2,DAVID;ClueGO,True
+positive regulation of T cell activation,2,DAVID;ClueGO,True
+positive regulation of cell migration,2,DAVID;ClueGO,True
+positive regulation of cell population proliferation,2,DAVID;ClueGO,True
+positive regulation of cytokine production,2,DAVID;ClueGO,True
+positive regulation of endothelial cell proliferation,2,DAVID;ClueGO,True
+positive regulation of epithelial cell proliferation,2,DAVID;ClueGO,True
+positive regulation of gene expression,2,DAVID;ClueGO,True
+positive regulation of leukocyte migration,2,DAVID;ClueGO,True
+positive regulation of neuron differentiation,2,DAVID;ClueGO,True
+positive regulation of neuron projection development,2,DAVID;ClueGO,True
+potassium ion transmembrane transport,2,DAVID;ClueGO,True
+potassium ion transport,2,DAVID;ClueGO,True
+regulation of blood pressure,2,DAVID;ClueGO,True
+regulation of calcium ion-dependent exocytosis,2,DAVID;ClueGO,True
+regulation of epithelial cell proliferation,2,DAVID;ClueGO,True
+regulation of heart rate,2,DAVID;ClueGO,True
+regulation of muscle contraction,2,DAVID;ClueGO,True
+regulation of postsynaptic membrane potential,2,DAVID;ClueGO,True
+regulation of smooth muscle contraction,2,DAVID;ClueGO,True
+regulation of synaptic plasticity,2,DAVID;ClueGO,True
+release of sequestered calcium ion into cytosol,2,DAVID;ClueGO,True
+response to estradiol,2,DAVID;ClueGO,True
+response to glucocorticoid,2,DAVID;ClueGO,True
+response to hypoxia,2,DAVID;ClueGO,True
+response to nutrient,2,DAVID;ClueGO,True
+retinoic acid metabolic process,2,DAVID;ClueGO,True
+sensory perception of pain,2,DAVID;ClueGO,True
+skeletal system development,2,DAVID;ClueGO,True
+smooth muscle contraction,2,DAVID;ClueGO,True
+sodium ion transmembrane transport,2,DAVID;ClueGO,True
+sodium ion transport,2,DAVID;ClueGO,True
+steroid metabolic process,2,DAVID;ClueGO,True
+synapse assembly,2,DAVID;ClueGO,True
+synapse organization,2,DAVID;ClueGO,True
+system development,2,DAVID;ClueGO,True
+transmembrane transport,2,DAVID;ClueGO,True
+transport across blood-brain barrier,2,DAVID;ClueGO,True
+xenobiotic metabolic process,2,DAVID;ClueGO,True

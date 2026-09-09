@@ -1,0 +1,11 @@
+gene,R_log2FC,Py_log2FC,R_FDR,R_significant,Py_significant,direction_match
+CDH3,6.548,6.544,8.37e-128,True,True,True
+OTOP2,-9.48,-9.475,8.37e-128,True,True,True
+DHRS7C,-2.757,-2.756,1.19e-115,True,True,True
+AADACL2,-2.761,-2.76,5.27e-114,True,True,True
+KRT80,6.71,6.713,2.59e-109,True,True,True
+ETV4,5.475,5.476,1.35e-101,True,True,True
+ESM1,5.564,5.563,2.19e-99,True,True,True
+TMEFF2,-3.344,-3.354,2.20e-82,True,True,True
+LGI1,-4.567,-4.563,6.69e-90,True,True,True
+KHDRBS2,-2.474,-2.472,1.15e-77,True,True,True

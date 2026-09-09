@@ -1,0 +1,6 @@
+contrast,R_sig,Py_sig,shared,R_only,Py_only,jaccard,pct_shared_of_R,spearman_log2FC,spearman_neglog10p,direction_agreement_shared
+global,4810,4807,4797,13,10,0.9952,99.73,1.0,0.9998,1.0
+Stage I,4979,4996,4894,85,102,0.9632,98.29,0.9992,,1.0
+Stage II,4865,4857,4835,30,22,0.9894,99.38,0.9999,,1.0
+Stage III,4682,4661,4638,44,23,0.9858,99.06,0.9999,,1.0
+Stage IV,4971,4971,4971,0,0,1.0,100.0,1.0,,1.0

@@ -1,0 +1,818 @@
+pathway,n_platforms,platforms,robust_ge2
+Activation of Matrix Metalloproteinases,3,DAVID;Reactome;ClueGO,True
+Assembly of collagen fibrils and other multimeric structures,3,DAVID;Reactome;ClueGO,True
+Bile secretion,3,DAVID;KEGG;ClueGO,True
+Biological oxidations,3,DAVID;Reactome;ClueGO,True
+Calcium signaling pathway,3,DAVID;KEGG;ClueGO,True
+Cardiac conduction,3,DAVID;Reactome;ClueGO,True
+Chemokine receptors bind chemokines,3,DAVID;Reactome;ClueGO,True
+Chemokine signaling pathway,3,DAVID;KEGG;ClueGO,True
+Cholinergic synapse,3,DAVID;KEGG;ClueGO,True
+Circadian entrainment,3,DAVID;KEGG;ClueGO,True
+Class A/1 (Rhodopsin-like receptors),3,DAVID;Reactome;ClueGO,True
+Collagen biosynthesis and modifying enzymes,3,DAVID;Reactome;ClueGO,True
+Collagen chain trimerization,3,DAVID;Reactome;ClueGO,True
+Collagen degradation,3,DAVID;Reactome;ClueGO,True
+Collagen formation,3,DAVID;Reactome;ClueGO,True
+Complement and coagulation cascades,3,DAVID;KEGG;ClueGO,True
+Cytokine-cytokine receptor interaction,3,DAVID;KEGG;ClueGO,True
+Degradation of the extracellular matrix,3,DAVID;Reactome;ClueGO,True
+Drug ADME,3,DAVID;Reactome;ClueGO,True
+G alpha (i) signalling events,3,DAVID;Reactome;ClueGO,True
+G alpha (q) signalling events,3,DAVID;Reactome;ClueGO,True
+GPCR downstream signalling,3,DAVID;Reactome;ClueGO,True
+GPCR ligand binding,3,DAVID;Reactome;ClueGO,True
+Hematopoietic cell lineage,3,DAVID;KEGG;ClueGO,True
+Hemostasis,3,DAVID;Reactome;ClueGO,True
+Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,3,DAVID;Reactome;ClueGO,True
+Ion channel transport,3,DAVID;Reactome;ClueGO,True
+Ion homeostasis,3,DAVID;Reactome;ClueGO,True
+Mineral absorption,3,DAVID;KEGG;ClueGO,True
+Neuroactive ligand-receptor interaction,3,DAVID;KEGG;ClueGO,True
+Neuronal System,3,DAVID;Reactome;ClueGO,True
+Nicotine addiction,3,DAVID;KEGG;ClueGO,True
+Pathways in cancer,3,DAVID;KEGG;ClueGO,True
+Peptide ligand-binding receptors,3,DAVID;Reactome;ClueGO,True
+Phase I - Functionalization of compounds,3,DAVID;Reactome;ClueGO,True
+Phase II - Conjugation of compounds,3,DAVID;Reactome;ClueGO,True
+Platelet homeostasis,3,DAVID;Reactome;ClueGO,True
+Potassium Channels,3,DAVID;Reactome;ClueGO,True
+Protein digestion and absorption,3,DAVID;KEGG;ClueGO,True
+Response to metal ions,3,DAVID;Reactome;ClueGO,True
+Retinol metabolism,3,DAVID;KEGG;ClueGO,True
+Rheumatoid arthritis,3,DAVID;KEGG;ClueGO,True
+SLC-mediated transmembrane transport,3,DAVID;Reactome;ClueGO,True
+Salivary secretion,3,DAVID;KEGG;ClueGO,True
+Signaling by GPCR,3,DAVID;Reactome;ClueGO,True
+Stimuli-sensing channels,3,DAVID;Reactome;ClueGO,True
+Transmission across Chemical Synapses,3,DAVID;Reactome;ClueGO,True
+Transport of small molecules,3,DAVID;Reactome;ClueGO,True
+Viral protein interaction with cytokine and cytokine receptor,3,DAVID;KEGG;ClueGO,True
+Wnt signaling pathway,3,DAVID;KEGG;ClueGO,True
+cAMP signaling pathway,3,DAVID;KEGG;ClueGO,True
+cGMP effects,3,DAVID;Reactome;ClueGO,True
+extracellular matrix organization,3,DAVID;Reactome;ClueGO,True
+muscle contraction,3,DAVID;Reactome;ClueGO,True
+signal transduction,3,DAVID;Reactome;ClueGO,True
+ABC transporters,2,DAVID;KEGG,True
+Adrenergic signaling in cardiomyocytes,2,DAVID;KEGG,True
+Aldosterone synthesis and secretion,2,DAVID;KEGG,True
+Allograft rejection,2,DAVID;KEGG,True
+Amino acid transport across the plasma membrane,2,DAVID;Reactome,True
+Arrhythmogenic right ventricular cardiomyopathy,2,DAVID;KEGG,True
+Ascorbate and aldarate metabolism,2,DAVID;KEGG,True
+Aspirin ADME,2,DAVID;Reactome,True
+Asthma,2,DAVID;KEGG,True
+Axon guidance,2,DAVID;ClueGO,True
+Basal cell carcinoma,2,DAVID;KEGG,True
+Cell adhesion molecule (CAM) interaction,2,DAVID;KEGG,True
+Chemical carcinogenesis - DNA adducts,2,DAVID;KEGG,True
+Chemical carcinogenesis - receptor activation,2,DAVID;KEGG,True
+Class B/2 (Secretin family receptors),2,DAVID;Reactome,True
+Constitutive Signaling by Aberrant PI3K in Cancer,2,DAVID;Reactome,True
+Cushing syndrome,2,DAVID;KEGG,True
+Cytoskeleton in muscle cells,2,DAVID;KEGG,True
+Defective B3GALTL causes PpS,2,DAVID;Reactome,True
+Developmental Cell Lineages,2,DAVID;Reactome,True
+Developmental Cell Lineages of the Exocrine Pancreas,2,DAVID;Reactome,True
+Dilated cardiomyopathy,2,DAVID;KEGG,True
+Dopaminergic synapse,2,DAVID;KEGG,True
+Drug metabolism - cytochrome P450,2,DAVID;KEGG,True
+ECM proteoglycans,2,DAVID;Reactome,True
+ECM-receptor interaction,2,DAVID;KEGG,True
+Erythrocytes take up oxygen and release carbon dioxide,2,DAVID;Reactome,True
+Fibronectin matrix formation,2,DAVID;Reactome,True
+G alpha (s) signalling events,2,DAVID;Reactome,True
+GABAergic synapse,2,DAVID;KEGG,True
+Glucagon-type ligand receptors,2,DAVID;Reactome,True
+Glucuronidation,2,DAVID;Reactome,True
+Glutamatergic synapse,2,DAVID;KEGG,True
+Graft-versus-host disease,2,DAVID;KEGG,True
+Hormone signaling,2,DAVID;KEGG,True
+Hypertrophic cardiomyopathy,2,DAVID;KEGG,True
+IgSF CAM signaling,2,DAVID;KEGG,True
+Inflammatory bowel disease,2,DAVID;KEGG,True
+Insulin secretion,2,DAVID;KEGG,True
+Integration of energy metabolism,2,DAVID;Reactome,True
+Integrin cell surface interactions,2,DAVID;Reactome,True
+Integrin signaling,2,DAVID;KEGG,True
+Interaction between L1 and Ankyrins,2,DAVID;Reactome,True
+Interleukin-10 signaling,2,DAVID;Reactome,True
+Interleukin-4 and Interleukin-13 signaling,2,DAVID;Reactome,True
+Intestinal immune network for IgA production,2,DAVID;KEGG,True
+Kinesins,2,DAVID;Reactome,True
+Melanogenesis,2,DAVID;KEGG,True
+Metabolism of xenobiotics by cytochrome P450,2,DAVID;KEGG,True
+Metallothioneins bind metals,2,DAVID;Reactome,True
+Morphine addiction,2,DAVID;KEGG,True
+NCAM1 interactions,2,DAVID;Reactome,True
+Negative regulation of the PI3K/AKT network,2,DAVID;Reactome,True
+Neurexins and neuroligins,2,DAVID;Reactome,True
+Neuroactive ligand signaling,2,DAVID;KEGG,True
+Neurotransmitter receptors and postsynaptic signal transmission,2,DAVID;Reactome,True
+Non-integrin membrane-ECM interactions,2,DAVID;Reactome,True
+O-glycosylation of TSR domain-containing proteins,2,DAVID;Reactome,True
+PI3K-Akt signaling pathway,2,DAVID;KEGG,True
+"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",2,DAVID;Reactome,True
+PPAR signaling pathway,2,DAVID;KEGG,True
+Pancreatic secretion,2,DAVID;KEGG,True
+Pentose and glucuronate interconversions,2,DAVID;KEGG,True
+Phase 0 - rapid depolarisation,2,DAVID;Reactome,True
+Platelet calcium homeostasis,2,DAVID;Reactome,True
+Protein-protein interactions at synapses,2,DAVID;Reactome,True
+Proteoglycans in cancer,2,DAVID;KEGG,True
+Regulation of MITF-M-dependent genes involved in cell cycle and proliferation,2,DAVID;Reactome,True
+Regulation of insulin secretion,2,DAVID;Reactome,True
+Regulation of lipolysis in adipocytes,2,DAVID;KEGG,True
+Renin secretion,2,DAVID;KEGG,True
+SLC-mediated transport of amino acids,2,DAVID;Reactome,True
+Serotonergic synapse,2,DAVID;KEGG,True
+Staphylococcus aureus infection,2,DAVID;KEGG,True
+Steroid hormone biosynthesis,2,DAVID;KEGG,True
+T cell activation,2,DAVID;ClueGO,True
+Type I diabetes mellitus,2,DAVID;KEGG,True
+Tyrosine metabolism,2,DAVID;KEGG,True
+Unwinding of DNA,2,DAVID;Reactome,True
+Viral myocarditis,2,DAVID;KEGG,True
+"Virion - Ebolavirus, Lyssavirus and Morbillivirus",2,DAVID;KEGG,True
+Voltage gated Potassium channels,2,DAVID;Reactome,True
+action potential,2,DAVID;ClueGO,True
+adenylate cyclase-activating G protein-coupled receptor signaling pathway,2,DAVID;ClueGO,True
+adenylate cyclase-modulating G protein-coupled receptor signaling pathway,2,DAVID;ClueGO,True
+angiogenesis,2,DAVID;ClueGO,True
+bile acid and bile salt transport,2,DAVID;ClueGO,True
+blood circulation,2,DAVID;ClueGO,True
+cGMP-PKG signaling pathway,2,DAVID;KEGG,True
+calcium ion transmembrane transport,2,DAVID;ClueGO,True
+calcium ion transport,2,DAVID;ClueGO,True
+calcium-mediated signaling,2,DAVID;ClueGO,True
+cell chemotaxis,2,DAVID;ClueGO,True
+cell fate commitment,2,DAVID;ClueGO,True
+cell surface receptor signaling pathway,2,DAVID;ClueGO,True
+cellular response to calcium ion,2,DAVID;ClueGO,True
+central nervous system development,2,DAVID;ClueGO,True
+chemical synaptic transmission,2,DAVID;ClueGO,True
+chemokine-mediated signaling pathway,2,DAVID;ClueGO,True
+chemotaxis,2,DAVID;ClueGO,True
+chloride transmembrane transport,2,DAVID;ClueGO,True
+chloride transport,2,DAVID;ClueGO,True
+epithelial cell differentiation,2,DAVID;ClueGO,True
+excitatory postsynaptic potential,2,DAVID;ClueGO,True
+inflammatory response,2,DAVID;ClueGO,True
+inner ear morphogenesis,2,DAVID;ClueGO,True
+membrane depolarization,2,DAVID;ClueGO,True
+membrane depolarization during cardiac muscle cell action potential,2,DAVID;ClueGO,True
+memory,2,DAVID;ClueGO,True
+modulation of chemical synaptic transmission,2,DAVID;ClueGO,True
+monocarboxylic acid metabolic process,2,DAVID;ClueGO,True
+negative regulation of cell population proliferation,2,DAVID;ClueGO,True
+nervous system development,2,DAVID;ClueGO,True
+neural crest cell migration,2,DAVID;ClueGO,True
+neurogenesis,2,DAVID;ClueGO,True
+neuron differentiation,2,DAVID;ClueGO,True
+neuropeptide signaling pathway,2,DAVID;ClueGO,True
+neurotransmitter transport,2,DAVID;ClueGO,True
+odontogenesis of dentin-containing tooth,2,DAVID;ClueGO,True
+osteoblast differentiation,2,DAVID;ClueGO,True
+phospholipase C-activating G protein-coupled receptor signaling pathway,2,DAVID;ClueGO,True
+positive regulation of ERK1 and ERK2 cascade,2,DAVID;ClueGO,True
+positive regulation of MAPK cascade,2,DAVID;ClueGO,True
+positive regulation of T cell activation,2,DAVID;ClueGO,True
+positive regulation of cell migration,2,DAVID;ClueGO,True
+positive regulation of cell population proliferation,2,DAVID;ClueGO,True
+positive regulation of cytokine production,2,DAVID;ClueGO,True
+positive regulation of endothelial cell proliferation,2,DAVID;ClueGO,True
+positive regulation of epithelial cell proliferation,2,DAVID;ClueGO,True
+positive regulation of gene expression,2,DAVID;ClueGO,True
+positive regulation of leukocyte migration,2,DAVID;ClueGO,True
+positive regulation of neuron differentiation,2,DAVID;ClueGO,True
+positive regulation of neuron projection development,2,DAVID;ClueGO,True
+potassium ion transmembrane transport,2,DAVID;ClueGO,True
+potassium ion transport,2,DAVID;ClueGO,True
+regulation of blood pressure,2,DAVID;ClueGO,True
+regulation of calcium ion-dependent exocytosis,2,DAVID;ClueGO,True
+regulation of epithelial cell proliferation,2,DAVID;ClueGO,True
+regulation of heart rate,2,DAVID;ClueGO,True
+regulation of muscle contraction,2,DAVID;ClueGO,True
+regulation of postsynaptic membrane potential,2,DAVID;ClueGO,True
+regulation of smooth muscle contraction,2,DAVID;ClueGO,True
+regulation of synaptic plasticity,2,DAVID;ClueGO,True
+release of sequestered calcium ion into cytosol,2,DAVID;ClueGO,True
+response to estradiol,2,DAVID;ClueGO,True
+response to glucocorticoid,2,DAVID;ClueGO,True
+response to hypoxia,2,DAVID;ClueGO,True
+response to nutrient,2,DAVID;ClueGO,True
+retinoic acid metabolic process,2,DAVID;ClueGO,True
+sensory perception of pain,2,DAVID;ClueGO,True
+skeletal system development,2,DAVID;ClueGO,True
+smooth muscle contraction,2,DAVID;ClueGO,True
+sodium ion transmembrane transport,2,DAVID;ClueGO,True
+sodium ion transport,2,DAVID;ClueGO,True
+steroid metabolic process,2,DAVID;ClueGO,True
+synapse assembly,2,DAVID;ClueGO,True
+synapse organization,2,DAVID;ClueGO,True
+system development,2,DAVID;ClueGO,True
+transmembrane transport,2,DAVID;ClueGO,True
+transport across blood-brain barrier,2,DAVID;ClueGO,True
+xenobiotic metabolic process,2,DAVID;ClueGO,True
+Aldosterone-regulated sodium reabsorption,1,DAVID,False
+Apelin signaling pathway,1,DAVID,False
+B cell activation,1,DAVID,False
+B cell proliferation,1,DAVID,False
+Binding and Uptake of Ligands by Scavenger Receptors,1,ClueGO,False
+Breast cancer,1,DAVID,False
+Cadherin signaling,1,DAVID,False
+Cell adhesion molecules,1,ClueGO,False
+Chemical carcinogenesis,1,ClueGO,False
+Cornified envelope formation,1,DAVID,False
+Drug metabolism,1,ClueGO,False
+Drug metabolism - other enzymes,1,DAVID,False
+ERK1 and ERK2 cascade,1,ClueGO,False
+Fat digestion and absorption,1,DAVID,False
+G protein-coupled peptide receptor activity,1,ClueGO,False
+"G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger",1,DAVID,False
+"GLYCINE, SERINE AND THREONINE METABOLISM",1,KEGG,False
+Gastric cancer,1,DAVID,False
+Generation of second messenger molecules,1,ClueGO,False
+Leukocyte transendothelial migration,1,DAVID,False
+MAPK cascade,1,ClueGO,False
+MICRORNAS IN CANCER,1,KEGG,False
+Malaria,1,DAVID,False
+Motor proteins,1,DAVID,False
+Natural killer cell mediated cytotoxicity,1,DAVID,False
+Oxytocin signaling pathway,1,DAVID,False
+Phagosome,1,DAVID,False
+Rap1 signaling pathway,1,DAVID,False
+Ras signaling pathway,1,DAVID,False
+Signaling pathways regulating pluripotency of stem cells,1,DAVID,False
+T cell differentiation,1,ClueGO,False
+T cell proliferation,1,ClueGO,False
+T cell selection,1,ClueGO,False
+Th17 cell differentiation,1,DAVID,False
+"Transport of bile salts and organic acids, metal ions and amine compounds",1,ClueGO,False
+Transport of inorganic cations/anions and amino acids/oligopeptides,1,ClueGO,False
+Vascular smooth muscle contraction,1,DAVID,False
+active ion transmembrane transporter activity,1,ClueGO,False
+acute inflammatory response,1,ClueGO,False
+adenylate cyclase-activating adrenergic receptor signaling pathway,1,DAVID,False
+adenylate cyclase-inhibiting G protein-coupled receptor signaling pathway,1,DAVID,False
+alpha-beta T cell activation,1,ClueGO,False
+ameboidal-type cell migration,1,ClueGO,False
+amide transport,1,ClueGO,False
+amine transport,1,ClueGO,False
+amino acid import across plasma membrane,1,DAVID,False
+amino acid transport,1,DAVID,False
+anatomical structure formation involved in morphogenesis,1,ClueGO,False
+anatomical structure homeostasis,1,ClueGO,False
+animal organ formation,1,ClueGO,False
+animal organ morphogenesis,1,ClueGO,False
+animal organ regeneration,1,ClueGO,False
+anion channel activity,1,ClueGO,False
+anion transmembrane transport,1,ClueGO,False
+anion transmembrane transporter activity,1,ClueGO,False
+anion transport,1,ClueGO,False
+antimicrobial humoral immune response mediated by antimicrobial peptide,1,DAVID,False
+apoptotic process,1,ClueGO,False
+axon development,1,ClueGO,False
+axonogenesis,1,ClueGO,False
+benzene-containing compound metabolic process,1,ClueGO,False
+blood coagulation,1,DAVID,False
+blood vessel development,1,ClueGO,False
+blood vessel diameter maintenance,1,ClueGO,False
+blood vessel morphogenesis,1,ClueGO,False
+brain development,1,ClueGO,False
+branching involved in ureteric bud morphogenesis,1,DAVID,False
+branching morphogenesis of an epithelial tube,1,ClueGO,False
+calcium channel activity,1,ClueGO,False
+calcium ion transmembrane import into cytosol,1,ClueGO,False
+calcium ion transmembrane transporter activity,1,ClueGO,False
+calcium-dependent activation of synaptic vesicle fusion,1,DAVID,False
+calcium-independent cell-cell adhesion,1,DAVID,False
+canonical Wnt signaling pathway,1,DAVID,False
+carboxylic acid metabolic process,1,ClueGO,False
+carboxylic acid transport,1,ClueGO,False
+cardiac muscle cell action potential involved in contraction,1,DAVID,False
+cardiac muscle contraction,1,ClueGO,False
+cargo receptor activity,1,ClueGO,False
+cartilage development,1,ClueGO,False
+catecholamine secretion,1,ClueGO,False
+catecholamine transport,1,ClueGO,False
+cation channel activity,1,ClueGO,False
+cation homeostasis,1,ClueGO,False
+cation transmembrane transport,1,ClueGO,False
+cation transmembrane transporter activity,1,ClueGO,False
+cation transport,1,ClueGO,False
+cell adhesion,1,DAVID,False
+cell communication,1,DAVID,False
+cell development,1,ClueGO,False
+cell differentiation,1,DAVID,False
+cell junction assembly,1,ClueGO,False
+cell junction organization,1,ClueGO,False
+cell maturation,1,DAVID,False
+cell migration,1,DAVID,False
+cell morphogenesis,1,ClueGO,False
+cell morphogenesis involved in differentiation,1,ClueGO,False
+cell morphogenesis involved in neuron differentiation,1,ClueGO,False
+cell part morphogenesis,1,ClueGO,False
+cell projection morphogenesis,1,ClueGO,False
+cell projection organization,1,ClueGO,False
+cell surface receptor protein tyrosine kinase signaling pathway,1,DAVID,False
+cell surface receptor signaling pathway involved in cell-cell signaling,1,ClueGO,False
+cell-cell adhesion,1,DAVID,False
+cell-cell adhesion via plasma-membrane adhesion molecules,1,ClueGO,False
+cell-cell signaling,1,DAVID,False
+cell-matrix adhesion,1,DAVID,False
+cellular calcium ion homeostasis,1,ClueGO,False
+cellular cation homeostasis,1,ClueGO,False
+cellular chemical homeostasis,1,ClueGO,False
+cellular component morphogenesis,1,ClueGO,False
+cellular defense response,1,DAVID,False
+cellular divalent inorganic cation homeostasis,1,ClueGO,False
+cellular extravasation,1,ClueGO,False
+cellular homeostasis,1,ClueGO,False
+cellular hormone metabolic process,1,ClueGO,False
+cellular ion homeostasis,1,ClueGO,False
+cellular metal ion homeostasis,1,ClueGO,False
+cellular response to BMP stimulus,1,ClueGO,False
+cellular response to alcohol,1,ClueGO,False
+cellular response to chemokine,1,ClueGO,False
+cellular response to cytokine stimulus,1,ClueGO,False
+cellular response to growth factor stimulus,1,ClueGO,False
+cellular response to hypoxia,1,DAVID,False
+cellular response to inorganic substance,1,ClueGO,False
+cellular response to lipid,1,ClueGO,False
+cellular response to lipopolysaccharide,1,DAVID,False
+cellular response to metal ion,1,ClueGO,False
+cellular response to nitrogen compound,1,ClueGO,False
+cellular response to organic cyclic compound,1,ClueGO,False
+cellular response to organic substance,1,ClueGO,False
+cellular response to organonitrogen compound,1,ClueGO,False
+cellular response to oxygen-containing compound,1,ClueGO,False
+cellular response to retinoic acid,1,DAVID,False
+cellular response to xenobiotic stimulus,1,ClueGO,False
+cellular response to zinc ion,1,DAVID,False
+channel regulator activity,1,ClueGO,False
+chemical homeostasis,1,ClueGO,False
+"chemical synaptic transmission, postsynaptic",1,ClueGO,False
+chemokine activity,1,ClueGO,False
+chloride channel activity,1,ClueGO,False
+chondrocyte differentiation,1,ClueGO,False
+chordate embryonic development,1,ClueGO,False
+circulatory system development,1,ClueGO,False
+cognition,1,ClueGO,False
+collagen fibril organization,1,DAVID,False
+complement activation,1,DAVID,False
+connective tissue development,1,ClueGO,False
+cytokine activity,1,ClueGO,False
+cytokine production,1,ClueGO,False
+cytokine receptor activity,1,ClueGO,False
+cytokine-mediated signaling pathway,1,DAVID,False
+cytoskeleton organization,1,ClueGO,False
+detoxification of copper ion,1,DAVID,False
+digestive tract development,1,ClueGO,False
+divalent inorganic cation homeostasis,1,ClueGO,False
+dopamine secretion,1,ClueGO,False
+dopamine transport,1,ClueGO,False
+ear development,1,ClueGO,False
+ear morphogenesis,1,ClueGO,False
+embryo development,1,ClueGO,False
+embryo development ending in birth or egg hatching,1,ClueGO,False
+embryonic digestive tract development,1,ClueGO,False
+embryonic hindlimb morphogenesis,1,DAVID,False
+embryonic morphogenesis,1,ClueGO,False
+embryonic organ development,1,ClueGO,False
+embryonic organ morphogenesis,1,ClueGO,False
+embryonic skeletal system development,1,DAVID,False
+endothelial cell proliferation,1,ClueGO,False
+energy homeostasis,1,DAVID,False
+enteric nervous system development,1,ClueGO,False
+enzyme-linked receptor protein signaling pathway,1,ClueGO,False
+epithelial tube morphogenesis,1,ClueGO,False
+epithelium development,1,ClueGO,False
+export from cell,1,ClueGO,False
+extracellular ligand-gated ion channel activity,1,ClueGO,False
+eye development,1,ClueGO,False
+fibrinolysis,1,DAVID,False
+forebrain development,1,ClueGO,False
+gamma-delta T cell activation,1,ClueGO,False
+gated channel activity,1,ClueGO,False
+generation of neurons,1,ClueGO,False
+gland development,1,ClueGO,False
+glomerulus development,1,ClueGO,False
+glutamate receptor signaling pathway,1,DAVID,False
+granulocyte chemotaxis,1,ClueGO,False
+granulocyte migration,1,ClueGO,False
+growth factor activity,1,ClueGO,False
+heart contraction,1,ClueGO,False
+heart development,1,ClueGO,False
+heart morphogenesis,1,ClueGO,False
+heart process,1,ClueGO,False
+hematopoietic or lymphoid organ development,1,ClueGO,False
+hematopoietic progenitor cell differentiation,1,DAVID,False
+heme catabolic process,1,DAVID,False
+hemopoiesis,1,ClueGO,False
+heterotypic cell-cell adhesion,1,DAVID,False
+homophilic cell adhesion via plasma membrane adhesion molecules,1,ClueGO,False
+homophilic cell-cell adhesion,1,DAVID,False
+hormone activity,1,ClueGO,False
+hormone metabolic process,1,ClueGO,False
+hormone secretion,1,ClueGO,False
+hormone transport,1,ClueGO,False
+immune response,1,DAVID,False
+immune system development,1,ClueGO,False
+import across plasma membrane,1,ClueGO,False
+import into cell,1,ClueGO,False
+inner ear development,1,ClueGO,False
+inorganic anion transmembrane transport,1,ClueGO,False
+inorganic anion transmembrane transporter activity,1,ClueGO,False
+inorganic anion transport,1,ClueGO,False
+inorganic cation transmembrane transport,1,ClueGO,False
+inorganic cation transmembrane transporter activity,1,ClueGO,False
+inorganic ion homeostasis,1,ClueGO,False
+inorganic ion transmembrane transport,1,ClueGO,False
+inorganic molecular entity transmembrane transporter activity,1,ClueGO,False
+inositol lipid-mediated signaling,1,ClueGO,False
+interferon-gamma production,1,ClueGO,False
+intracellular calcium ion homeostasis,1,DAVID,False
+intracellular signal transduction,1,ClueGO,False
+intracellular sodium ion homeostasis,1,DAVID,False
+ion channel activity,1,ClueGO,False
+ion transmembrane transport,1,ClueGO,False
+ion transmembrane transporter activity,1,ClueGO,False
+ion transport,1,ClueGO,False
+ionotropic glutamate receptor signaling pathway,1,DAVID,False
+kidney development,1,ClueGO,False
+kidney epithelium development,1,ClueGO,False
+kidney morphogenesis,1,ClueGO,False
+killing of cells of another organism,1,DAVID,False
+lateral sprouting from an epithelium,1,ClueGO,False
+learning,1,DAVID,False
+learning or memory,1,ClueGO,False
+leukocyte cell-cell adhesion,1,ClueGO,False
+leukocyte chemotaxis,1,ClueGO,False
+leukocyte differentiation,1,ClueGO,False
+leukocyte mediated cytotoxicity,1,ClueGO,False
+leukocyte migration,1,ClueGO,False
+leukocyte tethering or rolling,1,DAVID,False
+ligand-gated cation channel activity,1,ClueGO,False
+ligand-gated ion channel activity,1,ClueGO,False
+limb bud formation,1,DAVID,False
+lipid metabolic process,1,DAVID,False
+lipid transport,1,ClueGO,False
+lipid transporter activity,1,ClueGO,False
+locomotory behavior,1,DAVID,False
+long-term memory,1,DAVID,False
+long-term synaptic potentiation,1,ClueGO,False
+lung development,1,DAVID,False
+lung vasculature development,1,DAVID,False
+lymphocyte activation,1,ClueGO,False
+lymphocyte chemotaxis,1,ClueGO,False
+lymphocyte differentiation,1,ClueGO,False
+lymphocyte migration,1,ClueGO,False
+lymphocyte proliferation,1,ClueGO,False
+macrophage migration,1,ClueGO,False
+mammary gland alveolus development,1,DAVID,False
+mammary gland development,1,ClueGO,False
+melanocyte differentiation,1,DAVID,False
+membrane depolarization during action potential,1,ClueGO,False
+mesenchymal cell differentiation,1,ClueGO,False
+mesenchymal cell proliferation,1,DAVID,False
+mesenchyme development,1,ClueGO,False
+mesonephric tubule morphogenesis,1,ClueGO,False
+mesonephros development,1,ClueGO,False
+metal ion homeostasis,1,ClueGO,False
+metal ion transmembrane transporter activity,1,ClueGO,False
+metal ion transport,1,ClueGO,False
+metanephros development,1,ClueGO,False
+microtubule-based movement,1,DAVID,False
+monoamine transport,1,ClueGO,False
+monoatomic cation transmembrane transport,1,DAVID,False
+monoatomic ion transmembrane transport,1,DAVID,False
+monoatomic ion transport,1,DAVID,False
+monocarboxylic acid transmembrane transporter activity,1,ClueGO,False
+monocarboxylic acid transport,1,ClueGO,False
+mononuclear cell differentiation,1,ClueGO,False
+mononuclear cell migration,1,ClueGO,False
+mononuclear cell proliferation,1,ClueGO,False
+morphogenesis of a branching epithelium,1,ClueGO,False
+morphogenesis of a branching structure,1,ClueGO,False
+morphogenesis of an epithelium,1,ClueGO,False
+multicellular organismal homeostasis,1,ClueGO,False
+muscle cell differentiation,1,ClueGO,False
+muscle cell migration,1,ClueGO,False
+muscle organ development,1,ClueGO,False
+muscle tissue development,1,ClueGO,False
+myeloid leukocyte activation,1,ClueGO,False
+myeloid leukocyte differentiation,1,ClueGO,False
+myeloid leukocyte migration,1,ClueGO,False
+negative chemotaxis,1,DAVID,False
+negative regulation of T cell mediated cytotoxicity,1,ClueGO,False
+negative regulation of Wnt signaling pathway,1,DAVID,False
+negative regulation of cAMP/PKA signal transduction,1,DAVID,False
+negative regulation of cell activation,1,ClueGO,False
+negative regulation of cell adhesion,1,ClueGO,False
+negative regulation of cell communication,1,ClueGO,False
+negative regulation of cell differentiation,1,ClueGO,False
+negative regulation of cell motility,1,ClueGO,False
+negative regulation of cellular process,1,ClueGO,False
+negative regulation of cytokine production,1,ClueGO,False
+negative regulation of developmental process,1,ClueGO,False
+negative regulation of immune system process,1,ClueGO,False
+negative regulation of ion transport,1,ClueGO,False
+negative regulation of leukocyte activation,1,ClueGO,False
+negative regulation of locomotion,1,ClueGO,False
+negative regulation of multicellular organismal process,1,ClueGO,False
+negative regulation of response to external stimulus,1,ClueGO,False
+negative regulation of response to stimulus,1,ClueGO,False
+negative regulation of secretion,1,ClueGO,False
+negative regulation of secretion by cell,1,ClueGO,False
+negative regulation of signaling,1,ClueGO,False
+negative regulation of transport,1,ClueGO,False
+negative thymic T cell selection,1,DAVID,False
+nephron development,1,ClueGO,False
+nephron epithelium development,1,ClueGO,False
+nephron epithelium morphogenesis,1,ClueGO,False
+nephron morphogenesis,1,ClueGO,False
+nephron tubule development,1,ClueGO,False
+nerve development,1,ClueGO,False
+neural crest cell development,1,ClueGO,False
+neural crest cell differentiation,1,ClueGO,False
+neuron development,1,ClueGO,False
+neuron migration,1,ClueGO,False
+neuron projection development,1,ClueGO,False
+neuron projection morphogenesis,1,ClueGO,False
+neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential,1,ClueGO,False
+neurotransmitter secretion,1,ClueGO,False
+neutrophil chemotaxis,1,ClueGO,False
+neutrophil migration,1,ClueGO,False
+odontogenesis,1,ClueGO,False
+organ induction,1,ClueGO,False
+organic acid transmembrane transport,1,ClueGO,False
+organic acid transmembrane transporter activity,1,ClueGO,False
+organic acid transport,1,ClueGO,False
+organic anion transmembrane transporter activity,1,ClueGO,False
+organic anion transport,1,ClueGO,False
+organic hydroxy compound transport,1,ClueGO,False
+oxoacid metabolic process,1,ClueGO,False
+passive transmembrane transporter activity,1,ClueGO,False
+pattern specification process,1,ClueGO,False
+peptide antigen assembly with MHC class II protein complex,1,DAVID,False
+peptide secretion,1,ClueGO,False
+peptide transport,1,ClueGO,False
+peptidyl-tyrosine phosphorylation,1,ClueGO,False
+"phagocytosis, engulfment",1,DAVID,False
+phosphatidylinositol-mediated signaling,1,ClueGO,False
+plasma membrane bounded cell projection organization,1,ClueGO,False
+positive regulation of T cell mediated cytotoxicity,1,DAVID,False
+positive regulation of T cell proliferation,1,DAVID,False
+positive regulation of Wnt signaling pathway,1,DAVID,False
+positive regulation of amine transport,1,ClueGO,False
+positive regulation of animal organ morphogenesis,1,ClueGO,False
+positive regulation of apoptotic process,1,DAVID,False
+positive regulation of cAMP/PKA signal transduction,1,DAVID,False
+positive regulation of calcium ion transport,1,ClueGO,False
+positive regulation of calcium ion-dependent exocytosis,1,DAVID,False
+positive regulation of catalytic activity,1,ClueGO,False
+positive regulation of catecholamine secretion,1,ClueGO,False
+positive regulation of cation transmembrane transport,1,ClueGO,False
+positive regulation of cell adhesion,1,ClueGO,False
+positive regulation of cell communication,1,ClueGO,False
+positive regulation of cell differentiation,1,ClueGO,False
+positive regulation of cell motility,1,ClueGO,False
+positive regulation of cell-cell adhesion,1,ClueGO,False
+positive regulation of cellular component organization,1,ClueGO,False
+positive regulation of cellular process,1,ClueGO,False
+positive regulation of chemotaxis,1,ClueGO,False
+positive regulation of chondrocyte differentiation,1,DAVID,False
+positive regulation of cold-induced thermogenesis,1,DAVID,False
+positive regulation of cytosolic calcium ion concentration,1,DAVID,False
+positive regulation of defense response,1,ClueGO,False
+positive regulation of developmental process,1,ClueGO,False
+positive regulation of epithelial to mesenchymal transition,1,DAVID,False
+positive regulation of fibroblast proliferation,1,DAVID,False
+positive regulation of immune effector process,1,ClueGO,False
+positive regulation of immune response,1,DAVID,False
+positive regulation of immune system process,1,ClueGO,False
+positive regulation of intracellular signal transduction,1,ClueGO,False
+positive regulation of ion transmembrane transport,1,ClueGO,False
+positive regulation of ion transport,1,ClueGO,False
+positive regulation of kinase activity,1,ClueGO,False
+positive regulation of leukocyte cell-cell adhesion,1,ClueGO,False
+positive regulation of leukocyte chemotaxis,1,ClueGO,False
+positive regulation of leukocyte proliferation,1,ClueGO,False
+positive regulation of lipase activity,1,ClueGO,False
+positive regulation of locomotion,1,ClueGO,False
+positive regulation of mononuclear cell proliferation,1,ClueGO,False
+positive regulation of multicellular organismal process,1,ClueGO,False
+positive regulation of peptidyl-tyrosine phosphorylation,1,ClueGO,False
+positive regulation of phosphate metabolic process,1,ClueGO,False
+positive regulation of phosphatidylinositol 3-kinase signaling,1,ClueGO,False
+positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,1,DAVID,False
+positive regulation of phospholipase activity,1,ClueGO,False
+positive regulation of phosphorylation,1,ClueGO,False
+positive regulation of protein kinase B signaling,1,ClueGO,False
+positive regulation of protein kinase activity,1,ClueGO,False
+positive regulation of protein modification process,1,ClueGO,False
+positive regulation of protein phosphorylation,1,ClueGO,False
+positive regulation of response to external stimulus,1,ClueGO,False
+positive regulation of response to stimulus,1,ClueGO,False
+positive regulation of secretion,1,ClueGO,False
+positive regulation of secretion by cell,1,ClueGO,False
+positive regulation of signal transduction,1,ClueGO,False
+positive regulation of signaling,1,ClueGO,False
+positive regulation of synapse assembly,1,DAVID,False
+positive regulation of synaptic transmission,1,ClueGO,False
+positive regulation of transcription by RNA polymerase II,1,DAVID,False
+positive regulation of transferase activity,1,ClueGO,False
+positive regulation of transmembrane transport,1,ClueGO,False
+positive regulation of transport,1,ClueGO,False
+positive regulation of type II interferon production,1,DAVID,False
+positive regulation of vascular permeability,1,DAVID,False
+postsynaptic neurotransmitter receptor activity,1,ClueGO,False
+potassium channel activity,1,ClueGO,False
+prostaglandin metabolic process,1,DAVID,False
+protein kinase B signaling,1,ClueGO,False
+protein phosphorylation,1,ClueGO,False
+protein tyrosine kinase activity,1,ClueGO,False
+purinergic nucleotide receptor activity,1,ClueGO,False
+purinergic nucleotide receptor signaling pathway,1,ClueGO,False
+receptor clustering,1,DAVID,False
+receptor ligand activity,1,ClueGO,False
+regionalization,1,ClueGO,False
+regulated exocytosis,1,ClueGO,False
+regulation of ERK1 and ERK2 cascade,1,ClueGO,False
+regulation of MAPK cascade,1,ClueGO,False
+regulation of T cell activation,1,ClueGO,False
+regulation of amine transport,1,ClueGO,False
+regulation of anatomical structure morphogenesis,1,ClueGO,False
+regulation of animal organ formation,1,ClueGO,False
+regulation of animal organ morphogenesis,1,ClueGO,False
+regulation of anion transport,1,ClueGO,False
+regulation of blood circulation,1,ClueGO,False
+regulation of calcium ion transport,1,ClueGO,False
+regulation of catecholamine secretion,1,ClueGO,False
+regulation of cation channel activity,1,ClueGO,False
+regulation of cation transmembrane transport,1,ClueGO,False
+regulation of cell activation,1,ClueGO,False
+regulation of cell adhesion,1,ClueGO,False
+regulation of cell communication,1,ClueGO,False
+regulation of cell death,1,ClueGO,False
+regulation of cell differentiation,1,ClueGO,False
+regulation of cell junction assembly,1,ClueGO,False
+regulation of cell killing,1,ClueGO,False
+regulation of cell migration,1,ClueGO,False
+regulation of cell motility,1,ClueGO,False
+regulation of cell population proliferation,1,ClueGO,False
+regulation of cell projection organization,1,ClueGO,False
+regulation of cell-cell adhesion,1,ClueGO,False
+regulation of cellular component organization,1,ClueGO,False
+regulation of chemotaxis,1,ClueGO,False
+regulation of cytokine production,1,ClueGO,False
+regulation of defense response,1,ClueGO,False
+regulation of dopamine secretion,1,ClueGO,False
+regulation of endothelial cell proliferation,1,ClueGO,False
+regulation of exocytosis,1,ClueGO,False
+regulation of granulocyte chemotaxis,1,ClueGO,False
+regulation of heart contraction,1,ClueGO,False
+regulation of heart rate by cardiac conduction,1,DAVID,False
+regulation of hormone secretion,1,ClueGO,False
+regulation of immune effector process,1,ClueGO,False
+regulation of inflammatory response,1,ClueGO,False
+regulation of interferon-gamma production,1,ClueGO,False
+regulation of intracellular signal transduction,1,ClueGO,False
+regulation of ion transmembrane transport,1,ClueGO,False
+regulation of ion transmembrane transporter activity,1,ClueGO,False
+regulation of ion transport,1,ClueGO,False
+regulation of kinase activity,1,ClueGO,False
+regulation of leukocyte activation,1,ClueGO,False
+regulation of leukocyte cell-cell adhesion,1,ClueGO,False
+regulation of leukocyte chemotaxis,1,ClueGO,False
+regulation of leukocyte differentiation,1,ClueGO,False
+regulation of leukocyte mediated cytotoxicity,1,ClueGO,False
+regulation of leukocyte mediated immunity,1,ClueGO,False
+regulation of leukocyte migration,1,ClueGO,False
+regulation of leukocyte proliferation,1,ClueGO,False
+regulation of lymphocyte proliferation,1,ClueGO,False
+regulation of membrane potential,1,DAVID,False
+regulation of metal ion transport,1,ClueGO,False
+regulation of mononuclear cell migration,1,ClueGO,False
+regulation of mononuclear cell proliferation,1,ClueGO,False
+regulation of morphogenesis of a branching structure,1,ClueGO,False
+regulation of morphogenesis of an epithelium,1,ClueGO,False
+regulation of multicellular organismal development,1,ClueGO,False
+regulation of muscle system process,1,ClueGO,False
+regulation of neuron differentiation,1,ClueGO,False
+regulation of neuron projection development,1,ClueGO,False
+regulation of neurotransmitter secretion,1,ClueGO,False
+regulation of neurotransmitter transport,1,ClueGO,False
+regulation of ossification,1,ClueGO,False
+regulation of peptide hormone secretion,1,ClueGO,False
+regulation of peptide transport,1,ClueGO,False
+regulation of peptidyl-tyrosine phosphorylation,1,ClueGO,False
+regulation of phosphate metabolic process,1,ClueGO,False
+regulation of phosphatidylinositol 3-kinase signaling,1,ClueGO,False
+regulation of phospholipase activity,1,ClueGO,False
+regulation of phosphorylation,1,ClueGO,False
+regulation of plasma membrane bounded cell projection organization,1,ClueGO,False
+regulation of presynaptic cytosolic calcium ion concentration,1,DAVID,False
+regulation of prostatic bud formation,1,ClueGO,False
+regulation of protein kinase B signaling,1,ClueGO,False
+regulation of protein kinase activity,1,ClueGO,False
+regulation of protein phosphorylation,1,ClueGO,False
+regulation of regulated secretory pathway,1,ClueGO,False
+regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum,1,DAVID,False
+regulation of response to external stimulus,1,ClueGO,False
+regulation of secretion,1,ClueGO,False
+regulation of secretion by cell,1,ClueGO,False
+regulation of sequestering of calcium ion,1,ClueGO,False
+regulation of signal transduction,1,ClueGO,False
+regulation of smooth muscle cell proliferation,1,ClueGO,False
+regulation of synapse assembly,1,ClueGO,False
+regulation of synapse organization,1,ClueGO,False
+regulation of system process,1,ClueGO,False
+regulation of systemic arterial blood pressure,1,ClueGO,False
+regulation of systemic arterial blood pressure by hormone,1,ClueGO,False
+regulation of systemic arterial blood pressure by norepinephrine-epinephrine,1,ClueGO,False
+regulation of systemic arterial blood pressure mediated by a chemical signal,1,ClueGO,False
+regulation of transferase activity,1,ClueGO,False
+regulation of transmembrane transport,1,ClueGO,False
+regulation of transmembrane transporter activity,1,ClueGO,False
+regulation of transport,1,ClueGO,False
+regulation of vascular permeability,1,ClueGO,False
+regulation of vasculature development,1,ClueGO,False
+regulation of vasoconstriction,1,DAVID,False
+regulation of vesicle-mediated transport,1,ClueGO,False
+renal system development,1,ClueGO,False
+renal tubule development,1,ClueGO,False
+renal tubule morphogenesis,1,ClueGO,False
+reproductive structure development,1,ClueGO,False
+response to alcohol,1,ClueGO,False
+response to calcium ion,1,ClueGO,False
+response to corticosteroid,1,ClueGO,False
+response to cytokine,1,ClueGO,False
+response to decreased oxygen levels,1,ClueGO,False
+response to ethanol,1,DAVID,False
+response to growth factor,1,ClueGO,False
+response to hormone,1,ClueGO,False
+response to ketone,1,ClueGO,False
+response to lipid,1,ClueGO,False
+response to lipopolysaccharide,1,ClueGO,False
+response to metal ion,1,ClueGO,False
+response to molecule of bacterial origin,1,ClueGO,False
+response to organic cyclic compound,1,ClueGO,False
+response to organonitrogen compound,1,ClueGO,False
+response to organophosphorus,1,ClueGO,False
+response to purine-containing compound,1,ClueGO,False
+response to xenobiotic stimulus,1,DAVID,False
+retinoid metabolic process,1,ClueGO,False
+retinol metabolic process,1,DAVID,False
+second-messenger-mediated signaling,1,ClueGO,False
+secondary active transmembrane transporter activity,1,ClueGO,False
+secretion,1,ClueGO,False
+secretion by cell,1,ClueGO,False
+sensory organ development,1,ClueGO,False
+sensory organ morphogenesis,1,ClueGO,False
+sensory system development,1,ClueGO,False
+sequestering of calcium ion,1,ClueGO,False
+sex differentiation,1,ClueGO,False
+signal release,1,ClueGO,False
+signaling,1,DAVID,False
+smooth muscle cell proliferation,1,ClueGO,False
+sodium channel activity,1,ClueGO,False
+sodium ion import across plasma membrane,1,DAVID,False
+sodium ion transmembrane transporter activity,1,ClueGO,False
+solute:sodium symporter activity,1,ClueGO,False
+specification of animal organ identity,1,ClueGO,False
+stem cell development,1,ClueGO,False
+striated muscle cell differentiation,1,ClueGO,False
+striated muscle contraction,1,ClueGO,False
+striated muscle tissue development,1,ClueGO,False
+supramolecular fiber organization,1,ClueGO,False
+symporter activity,1,ClueGO,False
+synaptic signaling,1,ClueGO,False
+"synaptic transmission, cholinergic",1,ClueGO,False
+synaptic vesicle cycle,1,ClueGO,False
+synaptic vesicle exocytosis,1,ClueGO,False
+telencephalon development,1,ClueGO,False
+tissue morphogenesis,1,ClueGO,False
+trans-synaptic signaling,1,ClueGO,False
+transmembrane receptor protein tyrosine kinase signaling pathway,1,ClueGO,False
+transmembrane transporter activity,1,ClueGO,False
+tube development,1,ClueGO,False
+tube morphogenesis,1,ClueGO,False
+ureteric bud development,1,ClueGO,False
+urogenital system development,1,ClueGO,False
+vascular process in circulatory system,1,ClueGO,False
+vasculature development,1,ClueGO,False
+vasoconstriction,1,ClueGO,False
+vasodilation,1,ClueGO,False
+very long-chain fatty acid metabolic process,1,DAVID,False
+vesicle-mediated transport in synapse,1,ClueGO,False
+visual system development,1,ClueGO,False
+voltage-gated cation channel activity,1,ClueGO,False
+voltage-gated ion channel activity,1,ClueGO,False
+voltage-gated potassium channel activity,1,ClueGO,False
+wound healing,1,ClueGO,False
+xenobiotic catabolic process,1,DAVID,False
+xenobiotic transport,1,ClueGO,False
+zymogen activation,1,DAVID,False

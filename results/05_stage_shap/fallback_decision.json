@@ -1,0 +1,12 @@
+{
+  "all_stages_meet_n30": true,
+  "all_stages_stable": true,
+  "four_stage_primary": true,
+  "fallback_triggered": false,
+  "stage_counts": {
+    "I": 45,
+    "II": 110,
+    "III": 80,
+    "IV": 39
+  }
+}

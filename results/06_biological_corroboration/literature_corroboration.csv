@@ -1,0 +1,11 @@
+gene,our_DE_direction,our_global_rank,literature_status,literature_direction_match,key_evidence,representative_refs
+KRT80,UP (+6.7),1,strongly corroborated,YES,"Most upregulated gene in TCGA CRC (2020); qRT-PCR validated 50 patients; lymph node/distant metastasis; STAT3/MEK-ERK oncogenic; siRNA knockdown suppresses proliferation",PMC7579811;PMC13067176;MDPI-2072-6694-17-13-2183
+OTOP2,DOWN (-9.5),2,strongly corroborated,YES,"Significantly downregulated in COAD (P<0.001); better survival; suppresses proliferation/migration/invasion in vitro; tumor-suppressor-like",PMC11310881
+CDH3,UP (+6.5),3,strongly corroborated,YES,"qRT-PCR + IHC overexpressed in CRC vs normal (77 paired); poor prognosis/metastasis; 2025 metastasis-mechanism study",PMC5672898;Springer-s12885-025-13845-2
+ESM1,UP (+5.6),4,strongly corroborated,YES,"Endocan; drives angiogenesis (PI3K/Akt/mTOR); associated with ADVANCED STAGE, deeper invasion, lymph node metastasis, TNM stage; single-cell tip-cell marker in CRC. Directly supports our late-stage rise.",MDPI-2072-6694-16-1-194;PMC11193464;PMC13026901
+ETV4,UP (+5.5),5,strongly corroborated,YES,"PEA3 ETS TF; qRT-PCR/WB overexpressed; correlates metastasis + shorter survival; gain/loss-of-function in cell lines + xenografts",cancerci-10.1186-s12935-020-1111-8;ScienceDirect-S0006291X06009387
+AADACL2,DOWN (-2.8),6,limited/novel,NA,"Poorly characterized in CRC; candidate novel hypothesis-generating gene",none-strong
+KHDRBS2,DOWN (-2.5),7,limited/novel,NA,"Poorly characterized in CRC; candidate novel hypothesis-generating gene",none-strong
+LGI1,DOWN (-4.6),8,limited/novel,NA,"Known in neural context; limited CRC-specific wet-lab evidence; candidate novel gene",none-strong
+TMEFF2,DOWN (-3.4),9,corroborated,YES,"Established tumor-suppressor silenced by promoter methylation in CRC; downregulation consistent with our finding",methylation-TSG-class
+DHRS7C,DOWN (-2.8),10,limited/novel,NA,"Poorly characterized in CRC; candidate novel hypothesis-generating gene",none-strong

@@ -1,0 +1,4 @@
+tier,cohort,task,metric,value,ci,n
+1,GSE50760,classification,AUC,0.9691,[0.8961-1.0],36
+2,GSE39582,survival,C-index,0.5201,[0.477-0.5653],579
+2,GSE17536,survival,C-index,0.575,[0.5032-0.6419],177

@@ -1,0 +1,11 @@
+gene,n_robust_pathways,top_pathways
+CDH3,9,Wnt signaling pathway [3/4]; signal transduction [3/4]; Cell adhesion molecule (CAM) interaction [2/4]; cell surface receptor signaling pathway [2/4]; epithelial cell differentiation [2/4]
+OTOP2,1,transmembrane transport [2/4]
+DHRS7C,5,Ion homeostasis [3/4]; calcium ion transmembrane transport [2/4]; calcium ion transport [2/4]; release of sequestered calcium ion into cytosol [2/4]; transmembrane transport [2/4]
+AADACL2,0,(none)
+KRT80,1,epithelial cell differentiation [2/4]
+ETV4,2,signal transduction [3/4]; epithelial cell differentiation [2/4]
+ESM1,5,signal transduction [3/4]; angiogenesis [2/4]; cell surface receptor signaling pathway [2/4]; positive regulation of cell population proliferation [2/4]; system development [2/4]
+TMEFF2,0,(none)
+LGI1,9,signal transduction [3/4]; Axon guidance [2/4]; chemical synaptic transmission [2/4]; chemotaxis [2/4]; modulation of chemical synaptic transmission [2/4]
+KHDRBS2,1,signal transduction [3/4]

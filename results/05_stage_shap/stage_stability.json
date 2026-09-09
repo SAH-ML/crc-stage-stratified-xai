@@ -1,0 +1,26 @@
+{
+  "I": {
+    "mean_rho": 0.8639030303030302,
+    "sd_rho": 0.07766473684924362,
+    "frac_rho_gt_thr": 0.967,
+    "stable": true
+  },
+  "II": {
+    "mean_rho": 0.8936484848484848,
+    "sd_rho": 0.07583164766691272,
+    "frac_rho_gt_thr": 0.972,
+    "stable": true
+  },
+  "III": {
+    "mean_rho": 0.9517333333333333,
+    "sd_rho": 0.03564888668851238,
+    "frac_rho_gt_thr": 1.0,
+    "stable": true
+  },
+  "IV": {
+    "mean_rho": 0.9094666666666665,
+    "sd_rho": 0.06565070382535138,
+    "frac_rho_gt_thr": 0.986,
+    "stable": true
+  }
+}

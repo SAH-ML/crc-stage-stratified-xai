@@ -1,0 +1,6 @@
+subgroup,n,events,EPV,meets_EPV10,designation
+Stage I,45,3,0.3,False,exploratory
+Stage II,110,22,2.2,False,exploratory
+Stage III,80,21,2.1,False,exploratory
+Stage IV,39,19,1.9,False,exploratory
+Overall (pooled),283,69,6.9,False,primary (with EPV caveat)

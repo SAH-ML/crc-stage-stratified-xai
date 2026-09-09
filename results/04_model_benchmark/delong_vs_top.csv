@@ -1,0 +1,7 @@
+model,vs_top_auc_p,statistically_tied_with_top
+ElasticNet,,True
+RandomForest,1.0,True
+SVM,0.47950012218876426,True
+XGBoost,0.31794783978961627,True
+LightGBM,1.0,True
+MLP,0.2254744676256587,True

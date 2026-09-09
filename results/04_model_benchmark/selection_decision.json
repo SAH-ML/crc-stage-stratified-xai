@@ -1,0 +1,15 @@
+{
+  "winner": "ElasticNet",
+  "top_by_composite": "ElasticNet",
+  "statistically_tied_models": [
+    "ElasticNet",
+    "RandomForest",
+    "SVM",
+    "XGBoost",
+    "LightGBM",
+    "MLP"
+  ],
+  "selection_rule": "Among models statistically indistinguishable from the top performer by DeLong's test (p>0.05) across pooled out-of-fold predictions, the most parsimonious model was selected (Occam's razor), favouring interpretability for the downstream SHAP analysis.",
+  "imbalance_ratio": 6.975609756097561,
+  "imbalance_handling": "Class-weighted variant benchmarked alongside unweighted; SMOTE deliberately avoided (high-dimensional, leakage-prone)."
+}

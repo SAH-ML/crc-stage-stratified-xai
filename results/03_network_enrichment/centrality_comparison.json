@@ -1,0 +1,39 @@
+{
+  "network_0.7": {
+    "nodes": 939,
+    "edges": 2293,
+    "median_degree": 3.0
+  },
+  "panel_present_0.7": 3,
+  "panel_present_0.9": 1,
+  "panel_details_0.7": {
+    "CDH3": {
+      "degree": 2,
+      "betweenness": 0.0,
+      "neighbors": [
+        "CDH10",
+        "CDH19"
+      ]
+    },
+    "OTOP2": {
+      "degree": 1,
+      "betweenness": 0.0,
+      "neighbors": [
+        "BEST4"
+      ]
+    },
+    "LGI1": {
+      "degree": 7,
+      "betweenness": 0.01497826023756364,
+      "neighbors": [
+        "ADGRV1",
+        "CNTN2",
+        "DNER",
+        "DPP10",
+        "DPP6",
+        "DPYSL5",
+        "KCNA1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+saudi_pathway,saudi_frequency,source,convergent_with_our_enrichment,our_matching_pathways
+WNT/beta-catenin signaling,65% of Saudi CRC (WES 2025); APC mutation 47.8%; CTNNB1 variances,PMC12540182; Frontiers fonc.2026.1792016,yes,Wnt signaling pathway
+PI3K signaling,48% of Saudi CRC (WES 2025),PMC12540182,yes,"Pathways in cancer; Constitutive Signaling by Aberrant PI3K in Cancer; Negative regulation of the PI3K/AKT network; PI3K-Akt signaling pathway; PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling"
+Homologous recombination / DNA repair,"61% of Saudi CRC; BRCA2 79%, ATM 76%, CHEK1 78%",PMC12540182; ResearchGate 311550881,no,
+TP53 pathway,TP53 mutated 33.7-50% in Saudi CRC,PMC2981835; Frontiers fonc.2026.1792016,yes,Pathways in cancer
+KRAS/RAS-MAPK signaling,KRAS 6.5-45.2% (variable across Saudi studies),PMC9124608; Frontiers fonc.2026.1792016,yes,Pathways in cancer; signal transduction; positive regulation of MAPK cascade

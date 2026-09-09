@@ -1,0 +1,51 @@
+{
+  "tier1_gse50760": {
+    "tier": "1",
+    "cohort": "GSE50760",
+    "task": "primary tumour vs normal (RNA-seq)",
+    "n": 36,
+    "n_tumor": 18,
+    "n_normal": 18,
+    "auc": 0.9691,
+    "auc_ci": [
+      0.8961,
+      1.0
+    ],
+    "auprc": 0.9802,
+    "auprc_ci": [
+      0.9242,
+      1.0
+    ],
+    "n_bootstrap": 1000
+  },
+  "tier2_gse39582": {
+    "tier": "2",
+    "cohort": "GSE39582",
+    "task": "survival (signature transfer)",
+    "n": 579,
+    "events": 194,
+    "epv": 19.4,
+    "epv_meets_threshold": true,
+    "cindex": 0.5201,
+    "cindex_ci": [
+      0.477,
+      0.5653
+    ],
+    "n_bootstrap": 1000
+  },
+  "tier2_gse17536": {
+    "tier": "2",
+    "cohort": "GSE17536",
+    "task": "survival (signature transfer)",
+    "n": 177,
+    "events": 73,
+    "epv": 7.3,
+    "epv_meets_threshold": false,
+    "cindex": 0.575,
+    "cindex_ci": [
+      0.5032,
+      0.6419
+    ],
+    "n_bootstrap": 1000
+  }
+}

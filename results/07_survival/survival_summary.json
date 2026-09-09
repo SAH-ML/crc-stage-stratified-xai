@@ -1,0 +1,6 @@
+{
+  "best_model_overall": "CoxPH",
+  "overall_epv": 6.9,
+  "overall_epv_meets_threshold": false,
+  "interpretation": "Overall pooled model reported with EPV caveat (EPV=6.9 < 10); all per-stage survival is exploratory."
+}

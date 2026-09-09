@@ -1,0 +1,10 @@
+{
+  "gene": "ESM1",
+  "analysis": "GEPIA2 stage plot (pathologic stage I-IV, COAD)",
+  "median_trend": {"Stage_I": 2.25, "Stage_II": 2.30, "Stage_III": 2.40, "Stage_IV": 2.52},
+  "direction": "monotonic upward trend with stage (consistent with late-stage rise)",
+  "anova_F": 2.03,
+  "anova_p": 0.111,
+  "statistically_significant": false,
+  "honest_interpretation": "ESM1 median expression trends upward across stages I->IV in GEPIA2, directionally consistent with our SHAP finding that ESM1 gains late-stage importance. However, the across-stage ANOVA is NOT statistically significant (p=0.111). The corroboration is therefore DIRECTIONAL/SUGGESTIVE at the expression level, not a statistically significant stage-expression gradient. This is reported honestly; note that our finding concerns ESM1's IMPORTANCE for stage-resolved classification (which did replicate across cohorts in Step 7b), a distinct quantity from raw expression magnitude across stages."
+}

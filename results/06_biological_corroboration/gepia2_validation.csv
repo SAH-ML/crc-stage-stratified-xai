@@ -1,0 +1,11 @@
+gene,our_direction,gepia2_direction,match,gepia2_significant_asterisk,notes
+CDH3,UP,UP,YES,yes,tumor median ~5.6 vs normal ~0.3
+KRT80,UP,UP,YES,yes,tumor median ~3.6 vs normal ~0.1
+ETV4,UP,UP,YES,yes,tumor median ~6 vs normal ~0.8
+ESM1,UP,UP,YES,yes,tumor median ~2.3 vs normal ~0.1
+OTOP2,DOWN,DOWN,YES,yes,tumor median ~0 vs normal ~1.1
+LGI1,DOWN,DOWN,YES,yes,tumor ~0.05 vs normal ~1.6
+DHRS7C,DOWN,DOWN,YES,no,low expression both (~0 vs ~0.2); direction concordant but below significance threshold
+AADACL2,DOWN,DOWN,YES,no,low expression both (~0 vs ~0.2); direction concordant but below significance threshold
+TMEFF2,DOWN,DOWN,YES,no,tumor ~0 vs normal ~0.65; direction concordant but below significance threshold
+KHDRBS2,DOWN,DOWN,YES,no,low expression both (~0 vs ~0.15); direction concordant but below significance threshold

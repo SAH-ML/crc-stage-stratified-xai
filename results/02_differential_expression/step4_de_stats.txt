@@ -1,0 +1,10 @@
+Global DEGs: 4807
+Stage I DEGs (per-contrast): 4996
+Stage II DEGs (per-contrast): 4857
+Stage III DEGs (per-contrast): 4661
+Stage IV DEGs (per-contrast): 4971
+DEGs shared across all 4 stages: 3926
+DEGs unique to Stage I: 292
+DEGs unique to Stage II: 95
+DEGs unique to Stage III: 66
+DEGs unique to Stage IV: 368

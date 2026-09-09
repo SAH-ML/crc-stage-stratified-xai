@@ -1,0 +1,7 @@
+{
+  "mean_pairwise_jaccard": 0.6181327006327006,
+  "sd_pairwise_jaccard": 0.06971492208210067,
+  "n_genes_selected_any_fold": 18,
+  "n_genes_in_all_folds": 7,
+  "n_stable_genes_majority": 10
+}

@@ -1,0 +1,10 @@
+{
+  "global_R_sig": 4810,
+  "global_Py_sig": 4807,
+  "global_jaccard": 0.9952,
+  "global_spearman_log2FC": 1.0,
+  "global_direction_agreement": 1.0,
+  "all_panel_genes_significant_in_R": true,
+  "all_panel_directions_match": true,
+  "conclusion": "Python and canonical R limma agree near-perfectly; reporting canonical limma numbers is justified and the Python engine is a faithful reproducibility cross-check."
+}
