@@ -1,0 +1,28 @@
+# Python dependencies for the CRC stage-stratified XAI pipeline
+# Tested on Python 3.10-3.12. Install: pip install -r requirements.txt
+
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+matplotlib>=3.7
+seaborn>=0.12
+shap>=0.43
+xgboost>=2.0
+lightgbm>=4.0
+lifelines>=0.27          # Cox PH, Kaplan-Meier, C-index
+scikit-survival>=0.22    # Random Survival Forest
+networkx>=3.1            # PPI network topology
+statsmodels>=0.14
+openpyxl>=3.1            # Excel I/O (ClueGO .xls)
+xlrd>=2.0               # legacy .xls reading
+Pillow>=10.0
+adjustText>=0.8
+
+# Deep survival (DeepSurv) — optional, install if reproducing Step 7 DeepSurv:
+#   pip install pycox torch
+# torch>=2.0
+# pycox>=0.2.3
+
+# R (separate, for canonical limma in Step 2):
+#   Bioconductor: limma, edgeR   — install.packages("BiocManager"); BiocManager::install(c("limma","edgeR"))
